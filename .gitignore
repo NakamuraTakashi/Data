@@ -1,0 +1,5 @@
+*.dump
+*.stackdump
+*/backup/*
+Yaeyama/*
+!Yaeyama/*_grd_*
