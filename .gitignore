@@ -4,4 +4,4 @@
 Yaeyama/*
 Coral_Triangle/*
 !Yaeyama/*_grd_*
-!Coral_Triangle/*_grd_*
+#!Coral_Triangle/*_grd_*
